@@ -1,7 +1,3 @@
-if true then
-  return {}
-end
-
 return {
   "ThePrimeagen/harpoon",
   dependencies = "nvim-lua/plenary.nvim",
